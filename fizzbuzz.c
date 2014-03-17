@@ -2,7 +2,7 @@
 int main(void) 
 {
 	int i=0;
-	for(i=1;i<=100;i++) //Assuming that the range of numbers to be displayed is 100
+	for(i=1;i<=100;i++) //Assuming that the range of numbers to be displayed is 1 - 100
 	{
 		if(i%3==0) //Checking if number is multiple of 3
 		{
